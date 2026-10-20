@@ -37,3 +37,6 @@ src-tauri/.cargo/
 src-tauri/.pake/
 src-tauri/gen
 *.tmp
+*.har
+*.exe
+.vscode/tasks.json
